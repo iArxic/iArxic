@@ -1,5 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 ![bannertwittergif](https://user-images.githubusercontent.com/77511250/206929678-d414a644-93ee-4269-8fc1-6b4b0932a85c.gif)
-
+-->
 <!--
 **iArxic/iArxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
