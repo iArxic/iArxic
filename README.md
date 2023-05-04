@@ -1,5 +1,6 @@
 ## Hey there! 🐱
 [![Arxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArxic&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Arxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArxic&show_icons=true&theme=radical)
 <!--
 ![bannertwittergif](https://user-images.githubusercontent.com/77511250/206929678-d414a644-93ee-4269-8fc1-6b4b0932a85c.gif)
 -->
