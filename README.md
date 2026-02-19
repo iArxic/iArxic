@@ -5,12 +5,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
   <img alt="github-snake" src=".dist/github-snake.svg" />
 </picture>
-  <p>
-    <strong>Game Systems Engineering</strong> ・ Progression systems ・ Stat scaling & balance ・ Retention & monetization tuning<br>
-    <strong>Plugin Development</strong> ・ Studio tooling ・ Workflow optimization ・ Editor extensions<br>
-    <strong>Automation & Scripting</strong> ・ Build pipelines ・ Data tools ・ Quality-of-life scripts<br>
-    <strong>Product Positioning & Marketing</strong> ・ Feature messaging ・ Player-facing communication ・ Indie / AA launch strategy
-  </p>
 
   <table>
     <tr>
